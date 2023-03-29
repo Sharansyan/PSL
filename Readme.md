@@ -17,7 +17,7 @@ Several cases have been found where buildings collapse in different Loads at dif
 The case investigated in this study is the Zumrut Residential Apartment Building. It was constructed in 1994. The 11-story reinforced concrete building was located in the Selcuklu area of Konya, Turkey (Figure 1a). 
 At the time, the building site was located in a no seismic zone according to then-current seismic code (TEC 1975) at the time of construction, and the structural design was performed under gravity loads and wind loads only. The building survived just 5 years after the completion of construction.
 Progressive collapse of the building under gravity loads caused a sudden and total collapse on February 2, 2004 (Figure 1b)
-[image](/src/building.jpg)
+![image](src/building.jpg)
 Figure 1: (a) Building before Collapse, (b) Building after Collapse.
 ## 3.	Investigation
 Detailed field notes, photos, and videos are valuable for documentation of the collapsed shape and the removal procedure. Also, aerial photos may supply an invaluable overall view of the debris site. The collapsed configuration of the building is shown in Figure 2. The collapse pattern can supply precious data about feasible collapse mechanisms and the source of the damage.
