@@ -27,6 +27,8 @@ At the time, the building site was located in a no seismic zone according to the
 
 Progressive collapse of the building under gravity loads caused a sudden and total collapse on February 2, 2004 (Figure 1b)
 
+![img|10%](images/1.jpg)
+
 <img src="images/1.jpg" width=70%>
 
 *Figure 1: (a) Building before Collapse, (b) Building after Collapse*
