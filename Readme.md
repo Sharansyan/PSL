@@ -21,7 +21,7 @@ The case investigated in this study is the Zumrut Residential Apartment Building
 At the time, the building site was located in a no seismic zone according to then-current seismic code (TEC 1975) at the time of construction, and the structural design was performed under gravity loads and wind loads only. The building survived just 5 years after the completion of construction.
 Progressive collapse of the building under gravity loads caused a sudden and total collapse on February 2, 2004 (Figure 1b)
 
-![](src/building.jpg) width=60%
+![](src/building.jpg)
 Figure 1: (a) Building before Collapse, (b) Building after Collapse
 
 ## 3.	Investigation
