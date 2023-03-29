@@ -39,7 +39,7 @@ Figure 2 shows the field examination of the disaster area including insufficient
 •	Reinforcement cover varied significantly. It was found to be 5 cm in some columns. This small concrete beam sections, as well as the use of reinforcement type ST I (220 MPa) instead of ST III (420 MPa), resulted in a large number of reinforcements in the beam design.
 
 ![](/src/field%20examination.jpg)
-[Figure 2: Field examination of the disaster area: (a) weak concrete quality and straight reinforcement; (b) insufficient transversal reinforcement; (c) weak concrete material; (d) poor reinforcement detail and cover concrete; (e) insufficient bond between concrete and reinforcement; and (f) column found in debris with variable cross section.
+Figure 2: Field examination of the disaster area: (a) weak concrete quality and straight reinforcement; (b) insufficient transversal reinforcement; (c) weak concrete material; (d) poor reinforcement detail and cover concrete; (e) insufficient bond between concrete and reinforcement; and (f) column found in debris with variable cross section
 
 It was observed from the collapsed building that the ground-story level (consisting of shops) and roof level were constructed as ribbed slabs of 32 cm rather than reinforced concrete slabs of 12 cm, as shown in the approved structural drawings. The ribbed slabs were approximately two times heavier than the 12 cm reinforced concrete slab. During the removal of debris, a column of variable dimensions was also found at the ground story.
 
