@@ -29,7 +29,7 @@ Progressive collapse of the building under gravity loads caused a sudden and tot
 
 <img src="images/1.jpg" width=70%>
 
-*<p style="text-align: center">Figure 1: (a) Building before Collapse, (b) Building after Collapse</p>*
+*Figure 1: (a) Building before Collapse, (b) Building after Collapse*
 
 ## 3. Investigation
 Detailed field notes, photos, and videos are valuable for documentation of the collapsed shape and the removal procedure. Also, aerial photos may supply an invaluable overall view of the debris site. The collapsed configuration of the building is shown in Figure 2. The collapse pattern can supply precious data about feasible collapse mechanisms and the source of the damage.
@@ -48,7 +48,7 @@ Figure 2 shows the field examination of the disaster area including insufficient
 
 <img src="images/2.jpg" width="70%">
 
-*<p style="text-align: center"> Figure 2: Field examination of the disaster area: (a) weak concrete quality and straight reinforcement; (b) insufficient transversal reinforcement; (c) weak concrete material; (d) poor reinforcement detail and cover concrete; (e) insufficient bond between concrete and reinforcement; and (f) column found in debris with variable cross section </p>*
+*Figure 2: Field examination of the disaster area: (a) weak concrete quality and straight reinforcement; (b) insufficient transversal reinforcement; (c) weak concrete material; (d) poor reinforcement detail and cover concrete; (e) insufficient bond between concrete and reinforcement; and (f) column found in debris with variable cross section*
 
 It was observed from the collapsed building that the ground-story level (consisting of shops) and roof level were constructed as ribbed slabs of 32 cm rather than reinforced concrete slabs of 12 cm, as shown in the approved structural drawings. The ribbed slabs were approximately two times heavier than the 12 cm reinforced concrete slab. During the removal of debris, a column of variable dimensions was also found at the ground story.
 
@@ -59,7 +59,7 @@ The 11-story Zumrut Building was approximately 36 m high. The ground story was 5
 
 <img src="images/3.jpg" width="75%">
 
-*<p style="text-align: center;"> Figure 3: 3D model of the building </p>*
+*Figure 3: 3D model of the building*
 
 There are no supports between the columns that surround the building's exterior. This might be as a result of the architectural perspectives depicted in Figure 4. Therefore, the absence of beams in the frame axis rendered the frames inoperative. The beams were situated at the plan's exterior perimeter and were cantilevered from the frame columns. Additionally, as a consequence of this, the exterior frame column was exposed to significant impacts of console load at the out-of-frame elevation. Corner sections were especially important. When the stability of the building altered, the outer portions of the building frames were unable to transfer the loads efficiently under lateral loads. As a result, the building's torsional resistance was very minimal.
 
@@ -67,7 +67,7 @@ For example, the project designers used higher allowable concrete stresses for t
 
 <img src="images/4.jpg" width="85%">
 
-*<p style="text-align: center;"> Figure 4: Architectural plan of the building </p>*
+*Figure 4: Architectural plan of the building*
 
 ## 5. Conclusion
 The progressive collapse analysis showed that the collapse mode of the building was a torsional mode. Possible local failure mechanisms would cause a progressive failure of the base-story columns due to excessive loading from neighboring structural members. Such a story collapse resulted in a torsional mechanism mode. 
