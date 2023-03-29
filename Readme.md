@@ -66,4 +66,4 @@ The collapse analysis revealed that.
 •	As result, the collapse of story level occurred, then progressive collapse of the upper stories and finally in total collapse of the Zumrut Building.
 
 ## 6.	Reference
-[1]	Etemadi, A., & Balkaya, C. (2020). Collapsed-RC Building Failure Mechanisms with a Forensic Engineering Approach. Journal of Performance of Constructed Facilities, 34(5), 04020086.
+[[1]	Etemadi, A., & Balkaya, C. (2020). Collapsed-RC Building Failure Mechanisms with a Forensic Engineering Approach. Journal of Performance of Constructed Facilities, 34(5), 04020086.](https://doi.org/10.1061/(ASCE)CF.1943-5509.0001462)
