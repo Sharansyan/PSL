@@ -27,9 +27,7 @@ At the time, the building site was located in a no seismic zone according to the
 
 Progressive collapse of the building under gravity loads caused a sudden and total collapse on February 2, 2004 (Figure 1b)
 
-![img|10%](images/1.jpg)
-
-<img src="images/1.jpg" width=70%>
+<img src="images/1.jpg" width="70%">
 
 *Figure 1: (a) Building before Collapse, (b) Building after Collapse*
 
@@ -48,7 +46,7 @@ Figure 2 shows the field examination of the disaster area including insufficient
 * Reinforcement types were found to be of the ST I type (220 MPa). Stirrups were not increased near the beam–column connection regions. 
 * Reinforcement cover varied significantly. It was found to be 5 cm in some columns. This small concrete beam sections, as well as the use of reinforcement type ST I (220 MPa) instead of ST III (420 MPa), resulted in a large number of reinforcements in the beam design.
 
-<img src="images/2.jpg" width="70%">
+<img src="images/2.jpg" width="60%">
 
 *Figure 2: Field examination of the disaster area: (a) weak concrete quality and straight reinforcement; (b) insufficient transversal reinforcement; (c) weak concrete material; (d) poor reinforcement detail and cover concrete; (e) insufficient bond between concrete and reinforcement; and (f) column found in debris with variable cross section*
 
@@ -59,7 +57,7 @@ The Zumrut Building was modeled using the analysis program ETABS (version 8.17) 
 
 The 11-story Zumrut Building was approximately 36 m high. The ground story was 5.6 m high to accommodate shops, and the residential floors were 3 m high. Columns dimensions were generally 20/100, 20/70, and 25/100 cm (25/70 cm at the basement and ground-story levels). Beam dimensions were generally 20/50 cm. Reinforced concrete slabs were 12 cm.
 
-<img src="images/3.jpg" width="75%">
+<img src="images/3.jpg" width="60%">
 
 *Figure 3: 3D model of the building*
 
@@ -67,7 +65,7 @@ There are no supports between the columns that surround the building's exterior.
 
 For example, the project designers used higher allowable concrete stresses for the concrete by considering the critical load case as the combination of gravity loads plus lateral wind forces, which resulted in the selection of small column and beam dimensions. However, when considering the primary gravity loads, it was observed that this resulted in large structural sections in this load case. All combinations must be considered in structural design. In particular, basement and ground-story column dimensions must be 25% - 45% larger than the project calculations.
 
-<img src="images/4.jpg" width="85%">
+<img src="images/4.jpg" width="70%">
 
 *Figure 4: Architectural plan of the building*
 
